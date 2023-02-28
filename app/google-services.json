@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542210739711",
+    "project_id": "visankatech",
+    "storage_bucket": "visankatech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542210739711:android:a396dd709ad8a54aadebca",
+        "android_client_info": {
+          "package_name": "com.example.visankatech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542210739711-iahcvoa5aibh3dvf1aeilc2lkrl16uib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnZxFrWB1Cwb_EUB-oLBWy83kOqjclak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542210739711-iahcvoa5aibh3dvf1aeilc2lkrl16uib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
